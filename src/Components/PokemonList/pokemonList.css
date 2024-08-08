@@ -1,0 +1,24 @@
+.pokedmon-List-wrapper{
+    margin: 1rem auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.h{
+    width: 300px;
+    margin: 2rem auto;
+}
+.pokemon-wrapper{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+.btn{
+    margin: 2rem;
+    padding: 1rem;
+    border-radius: 25px;
+    /* background-color: rgb(76, 19, 199); */
+    /* color: white; */
+}
