@@ -1,4 +1,4 @@
-import PokemonList from "../PokemonList/PokemonList.jsx";
+import PokemonList from "../PokemonList/PokemonList1.jsx";
 import Search from "../Search/Search.jsx";
 
 //css
